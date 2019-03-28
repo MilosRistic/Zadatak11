@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Empire Burlesque</TITLE>
+    <ARTIST><NAME>Bob</NAME><SURNAME>Dylan</SURNAME><GENDER>Male</GENDER></ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Hide your heart</TITLE>
+    <ARTIST><NAME>Bonnie</NAME><SURNAME>Tyler</SURNAME><GENDER>Female</GENDER></ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1988</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Still got the blues</TITLE>
+    <ARTIST><NAME>Gary</NAME><SURNAME>Moore</SURNAME><GENDER>Male</GENDER></ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Virgin records</COMPANY>
+    <PRICE>10.20</PRICE>
+    <YEAR>1990</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Tempest</TITLE>
+    <ARTIST><NAME>Bob</NAME><SURNAME>Dylan</SURNAME><GENDER>Male</GENDER></ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>20.90</PRICE>
+    <YEAR>2012</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Eros</TITLE>
+    <ARTIST><NAME>Eros</NAME><SURNAME>Ramazzotti</SURNAME><GENDER>Male</GENDER></ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>BMG</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1997</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Tripicate</TITLE>
+    <ARTIST><NAME>Bob</NAME><SURNAME>Dylan</SURNAME><GENDER>Male</GENDER></ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>15.50</PRICE>
+    <YEAR>2017</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Greatest Hits</TITLE>
+    <ARTIST><NAME>Dolly</NAME><SURNAME>Parton</SURNAME><GENDER>Female</GENDER></ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>RCA</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1982</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Rocks and Honey</TITLE>
+    <ARTIST><NAME>Bonnie</NAME><SURNAME>Tyler</SURNAME><GENDER>Female</GENDER></ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>ZYX Music</COMPANY>
+    <PRICE>19.30</PRICE>
+    <YEAR>2013</YEAR>
+  </CD>
+</CATALOG>
